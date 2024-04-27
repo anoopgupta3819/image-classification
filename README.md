@@ -6,3 +6,8 @@ Image Classification with Convolutional Neural Networks (CNN): Develop a CNN mod
 CIFAR-10-C OR CIFAR-10-P both dataset download to ref this link https://zenodo.org/records/2535967#.XncuG5P7TUJ
 
 Facebook AI Research mixup-cifar10 ref this link https://github.com/facebookresearch/mixup-cifar10?tab=readme-ov-file
+
+
+
+=============================================================================================================================================
+Optimized primitives for inter-GPU communication. ref this link https://github.com/NVIDIA/nccl
