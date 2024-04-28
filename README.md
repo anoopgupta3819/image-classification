@@ -9,7 +9,7 @@ Facebook AI Research mixup-cifar10 ref this link https://github.com/facebookrese
 
 
 
-========================================================================================================================================
+==========================================================================================
 Optimized primitives for inter-GPU communication. ref this link https://github.com/NVIDIA/nccl
 Improved-Regularization-of-Convolutional-Neural-Networks Deep learning has been increasingly used in recent years, leading to state-of-the-art performance on different tasks, including object detection [1], semantic segmentation [2], image captioning [3], etc. Most of this success can be attributed to the use of convolutional neural networks (CNNs) [4] that are capable of learning complex hierarchical feature representation of images. The complexity of the tasks given to the deep neural network has increased over time, leading to advanced architectures that require a high computational complexity. These models usually contain tens to hundreds of millions of parameters that are needed for solving a task. However, the greater number of parameters in a network would lead to a higher chance of overfitting, which would then lead to a weak generalizability.
 
